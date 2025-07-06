@@ -1,0 +1,5 @@
+.DS_Store
+*.parquet
+*.nosync
+.env
+.venv
